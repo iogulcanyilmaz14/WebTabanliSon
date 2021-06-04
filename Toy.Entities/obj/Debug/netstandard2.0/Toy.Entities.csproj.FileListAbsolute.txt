@@ -1,0 +1,12 @@
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\bin\Debug\netstandard2.0\Toy.Entities.deps.json
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\bin\Debug\netstandard2.0\Toy.Entities.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\bin\Debug\netstandard2.0\Toy.Entities.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\bin\Debug\netstandard2.0\Toy.Core.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\bin\Debug\netstandard2.0\Toy.Core.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.AssemblyInfoInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.AssemblyInfo.cs
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.csproj.CopyComplete
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Entities\obj\Debug\netstandard2.0\Toy.Entities.pdb

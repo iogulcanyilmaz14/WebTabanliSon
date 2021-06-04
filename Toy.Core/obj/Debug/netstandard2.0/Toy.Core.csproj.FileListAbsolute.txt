@@ -1,0 +1,9 @@
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\bin\Debug\netstandard2.0\Toy.Core.deps.json
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\bin\Debug\netstandard2.0\Toy.Core.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\bin\Debug\netstandard2.0\Toy.Core.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\obj\Debug\netstandard2.0\Toy.Core.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\obj\Debug\netstandard2.0\Toy.Core.AssemblyInfoInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\obj\Debug\netstandard2.0\Toy.Core.AssemblyInfo.cs
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\obj\Debug\netstandard2.0\Toy.Core.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\obj\Debug\netstandard2.0\Toy.Core.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Core\obj\Debug\netstandard2.0\Toy.Core.pdb

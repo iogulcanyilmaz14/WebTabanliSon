@@ -1,0 +1,16 @@
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Business.deps.json
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Business.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Business.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Core.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.DataAccess.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Entities.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Core.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.DataAccess.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\bin\Debug\netstandard2.0\Toy.Entities.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.AssemblyInfoInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.AssemblyInfo.cs
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.csproj.CopyComplete
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.Business\obj\Debug\netstandard2.0\Toy.Business.pdb

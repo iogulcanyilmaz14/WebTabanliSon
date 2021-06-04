@@ -1,0 +1,14 @@
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.DataAccess.deps.json
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.DataAccess.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.DataAccess.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.Core.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.Entities.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.Core.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\bin\Debug\netstandard2.0\Toy.Entities.pdb
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.AssemblyInfo.cs
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.csproj.CopyComplete
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.dll
+C:\Users\ogulc\source\repos\ToyStore\Toy.DataAccess\obj\Debug\netstandard2.0\Toy.DataAccess.pdb
